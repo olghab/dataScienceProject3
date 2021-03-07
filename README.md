@@ -44,7 +44,9 @@ Used libraries:
 ### Data:
 Both .csv files are provided by IBM Watson Studio company
 * 'data/user-item-interactions.csv'
+![user_item_interactions.png](https://github.com/olghab/dataScienceProject3/tree/main/files/user_item_interactions.png)
 * 'data/articles_community.csv'
+![articles_community.png](https://github.com/olghab/dataScienceProject3/tree/main/files/articles_community.png)
 
 ### Results:
 All results are visible in the generated .pdf file
